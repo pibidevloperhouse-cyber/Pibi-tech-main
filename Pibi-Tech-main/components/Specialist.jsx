@@ -25,7 +25,7 @@ export default function Specialist() {
       image: "/re.png",
     },
     {
-      title: "Governance & NSGO'S",
+      title: "Governance & NGO'S",
       description: "Empowering public sectors and NGOs with scalable digital solutions.",
       image: "/ngo.jpeg",
     },

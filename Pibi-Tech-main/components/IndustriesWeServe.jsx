@@ -25,7 +25,7 @@ const industries = [
     image: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=2070&auto=format&fit=crop",
   },
   {
-    title: "Governance & NSGO'S",
+    title: "Governance & NGO'S",
     description: "Empowering public sectors and NGOs with scalable digital solutions.",
     image: "https://images.unsplash.com/photo-1541872703874-fa7137452d37?q=80&w=2070&auto=format&fit=crop",
   },
